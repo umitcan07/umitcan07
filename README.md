@@ -1,25 +1,26 @@
 ### Hi there 👋
 
 It's Ümit from Turkey 🇹🇷
+
 I am based in Istanbul, Ankara, or any motorway in between 🛣️
 
 ## Currently
 
-🧱 Product Engineer for [inploi](https://www.inploi.com/)
-💻 Computer Science student at [Bogazici University](https://bogazici.edu.tr/)
+- 🧱 Product Engineer for [inploi](https://www.inploi.com/)
+- 💻 Computer Science student at [Bogazici University](https://bogazici.edu.tr/)
 
 ## As a professional
 
-🎨 Designer (I craft elegant icons, illustrations, and web design)
-👨🏻‍💻 Developer (I build applications with rigor)
+- 🎨 Designer (I craft elegant icons, illustrations, and web design)
+- 👨🏻‍💻 Developer (I build applications with rigor)
 
 ### Hobbies
 
-𝑓 Geek & mathematics lover
-🚗 Enjoy sedan cars with internal combustion engines
-🛣️ Highway/Motorway addict
-🎧 Audio lover, not an audiophile though
-👾 Play no game except VALORANT
+- 𝑓 Geek & mathematics lover
+- 🚗 Enjoy sedan cars with internal combustion engines
+- 🛣️ Highway/Motorway addict
+- 🎧 Audio lover, not an audiophile though
+- 👾 Play no game except VALORANT
 
 ### Portfolio
 
