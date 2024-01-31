@@ -14,7 +14,7 @@ I am based in Istanbul, Ankara, or any motorway in between 🛣️
 - 🎨 Designer (I craft elegant icons, illustrations, and web design)
 - 👨🏻‍💻 Developer (I build applications with rigor)
 
-### Hobbies
+### 🌱 Hobbies
 
 - 𝑓 Geek & mathematics lover
 - 🚗 Enjoy sedan cars with internal combustion engines
@@ -22,13 +22,21 @@ I am based in Istanbul, Ankara, or any motorway in between 🛣️
 - 🎧 Audio lover, not an audiophile though
 - 👾 Play no game except VALORANT
 
-### Portfolio
+### 📫 Portfolio
 
-Nope, I am one of those people who are never able to finish their website (yet)
+None, 
 
-### Links
+I am one of those people who are never able to finish their website (yet)
 
-/[Soon\]
+fun fact: I don't even have a proper CV at this point (Whatever I create gets obsolete real quick anyway so I gave up)
+
+### ⚡ Follow me
+
+[LinkedIn](https://www.linkedin.com/in/umitcanevleksiz/)
+[Instagram](https://www.instagram.com/umitcan_07/)
+[Dribbble](https://dribbble.com/ucedesign)
+[Twitter](https://twitter.com/ucedesign/)
+[Youtube](https://www.youtube.com/UmitCanEvleksiz)
 
 
 <!--
