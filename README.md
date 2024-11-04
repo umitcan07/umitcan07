@@ -24,9 +24,7 @@ I am based in Istanbul, Ankara, or any motorway in between 🛣️
 
 ### 📫 Portfolio
 
-None, I am one of those people who are never able to finish their website (yet)
-
-fun fact: I don't even have a proper CV at this point (Whatever I create gets obsolete real quick anyway so I gave up)
+[uce.one](https://uce.one/)
 
 ### ⚡ Follow me
 
