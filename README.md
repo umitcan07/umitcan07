@@ -6,7 +6,6 @@ I am based in Istanbul, Ankara, or any motorway in between 🛣️
 
 ## Currently
 
-- 🧱 Product Engineer for [inploi](https://www.inploi.com/)
 - 💻 Computer Science student at [Bogazici University](https://bogazici.edu.tr/)
 
 ## As a professional
