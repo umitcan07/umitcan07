@@ -1,8 +1,5 @@
-### Hi there 👋
-
 It's Ümit from Turkey 🇹🇷
-
-I am based in Istanbul, Ankara, or any motorway in between 🛣️
+I am based in Istanbul, Ankara, or any road in between 🛣️
 
 ## Currently
 
@@ -13,17 +10,10 @@ I am based in Istanbul, Ankara, or any motorway in between 🛣️
 - 🎨 Designer (I craft elegant icons, illustrations, and interfaces)
 - 👨🏻‍💻 Developer (I build applications with rigor, empowering different tools and languages)
 
-### 🌱 Hobbies
-
-- 𝑓 Geek & mathematics lover
-- 🚗 Enjoy sedan cars with internal combustion engines
-- 🛣️ Highway/Motorway addict
-- 🎧 Audio lover, not an audiophile though
-- 👾 Play no game except VALORANT
-
-### 📫 Portfolio
+### Portfolio
 
 [uce.one](https://uce.one/)
+[Resume](https://uce.one/resume.pdf)
 
 ### ⚡ Follow me
 
